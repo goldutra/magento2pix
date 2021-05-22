@@ -48,6 +48,17 @@ Em sua primeira versão, este módulo não atualiza o status dos pedidos automat
 
 Esta funcionalidade está prevista no nosso Roadmap.
 
+# INSTALAÇÃO
+
+- Copie a pasta Bring para <magento_dir>/app/code
+- Acessa a linha de comando e vá para o diretório raíz do Magento 2
+- Execute os comandos abaixo:
+-- php bin/magento setup:upgrade"
+-- php bin/magento setup:di:compile
+-- php bin/magento cache:flush
+-- php bin/magento cache:clean
+- Pronto! Agora, acesso o painel do Magento 2 e verifique se o método de pagamento Bring Pix está disponível para ser configurado.
+
 # CONTATO
 
 Deixe seu comentário ou entre em contato conosco a respeito de novas funcionalidades, integrações e automatizações com bancos: contato@bring.com.br.
