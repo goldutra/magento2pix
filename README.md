@@ -50,4 +50,4 @@ Esta funcionalidade está prevista no nosso Roadmap.
 
 # CONTATO
 
-Deixe seu comentário e entre em contato conosco a respeito de novas funcionalidades, integrações e automatizações com bancos.
+Deixe seu comentário ou entre em contato conosco a respeito de novas funcionalidades, integrações e automatizações com bancos: contato@bring.com.br.
